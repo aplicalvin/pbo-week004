@@ -7,6 +7,8 @@ public class Mainquiz {
         Quiz tebakan = new Quiz();
 
         System.out.println("Welcome!");
+        System.out.println("Ini merupakan game tebak - tebakan");
+        System.out.println("Semoga kalian terhibur!");
 
         int answer;
 
